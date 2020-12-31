@@ -121,6 +121,17 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "universalhandle",
+      "name": "Frank J. Gómez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/871819?v=4",
+      "profile": "https://github.com/universalhandle",
+      "contributions": [
+        "bug",
+        "code",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 5
